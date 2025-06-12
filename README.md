@@ -36,7 +36,7 @@ pip install tf-nightly tensorflow-datasets pandas matplotlib
 ```python
 # Clone or download this script and run in Google Colab or any Python environment.
 
-# Automatically installs necessary packages and downloads the dataset
+# Automatically installs necessary packages and downloads the dataset or you can directly download the datasets files from this repository 
 !pip install tf-nightly tensorflow-datasets
 !wget https://cdn.freecodecamp.org/project-data/sms/train-data.tsv
 !wget https://cdn.freecodecamp.org/project-data/sms/valid-data.tsv
