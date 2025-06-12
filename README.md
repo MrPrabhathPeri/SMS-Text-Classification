@@ -70,7 +70,4 @@ You passed the challenge. Great job!
 - TensorFlow & Keras
 - Subword Tokenization
 
-## 👨‍💻 Author
-
-Built with 💡 and TensorFlow by [Your Name].
 
